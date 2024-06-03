@@ -37,4 +37,4 @@ https://tower-of-words.onrender.com/
 
 [Software Design Description](https://app.clickup.com/9016193580/v/l/6-901602053340-1?fbclid=IwZXh0bgNhZW0CMTAAAR1g2faZK1LC3Tu8_8Ibd3s_qezG6nzdY1oEcu36dyLkc_AyH8wY2YG-_dw_aem_AToNOF9MlFhDMWuhBnMy_ttJIrLAFG_3kKb3492FlEpLjIE3ELsMKaY17N-hr-_scyRS_Wk6Zk4hH481KN_pGF26)
 
-[Software Requirements Specification](https://app.clickup.com/9016193580/v/l/6-901602053340-1?fbclid=IwZXh0bgNhZW0CMTAAAR1g2faZK1LC3Tu8_8Ibd3s_qezG6nzdY1oEcu36dyLkc_AyH8wY2YG-_dw_aem_AToNOF9MlFhDMWuhBnMy_ttJIrLAFG_3kKb3492FlEpLjIE3ELsMKaY17N-hr-_scyRS_Wk6Zk4hH481KN_pGF26)
+[Software Requirements Specification](https://drive.google.com/file/d/1qhN30Kpy1ioLDGc74ihPPy_fHJa-8gkq/view?usp=sharing)
