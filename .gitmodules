@@ -1,3 +1,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/satou0419/typecasters-restAPI.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/satou0419/v3-tower-of-words_frontend.git
+[submodule "new-frontend"]
+	path = new-frontend
+	url = https://github.com/satou0419/v3-tower-of-words_frontend.git
