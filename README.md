@@ -13,16 +13,16 @@ https://tower-of-words.onrender.com/
 #### Project Manager - Capstone 1, Backend Developer and UI Designer
 - [Anton Joseph Cruz](https://github.com/Acrylus)
 
-#### Graphics Designer and Backend Developer
+#### Graphics Designer, UI Designer and Backend Developer
 - [Gil Joshua Yabao](https://github.com/Steemp)
 
 #### Project Manager - SIA and Frontend Lead Developer
 - [Rey Dante Garcia](https://github.com/satou0419)
 
-#### Secretary and Backend Developer
+#### Secretary, QA Tester and Backend Developer
 - [Jhon Lorenz Pabroa](https://github.com/JhonoBrine)
 
-#### Data Miner and Frontend Developer
+#### Data Miner, QA Analyst and Frontend Developer
 - [Trisha Mae Rivera](https://github.com/riveratrishamae)
 
 ## Co Author
