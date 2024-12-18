@@ -10,24 +10,24 @@ https://tower-of-words.onrender.com/
 
 ## Authors
 
-#### Project Manager - Capstone 1, Backend Developer and UI Designer
+#### Project Manager - Capstone 1, Fullstack Developer, and UI/UX Designer
 - [Anton Joseph Cruz](https://github.com/Acrylus)
 
-#### Graphics Designer, UI Designer and Backend Developer
+#### Graphics Designer, Backend Developer, and UI/UX Designer
 - [Gil Joshua Yabao](https://github.com/Steemp)
 
 #### Project Manager - SIA and Frontend Lead Developer
 - [Rey Dante Garcia](https://github.com/satou0419)
 
-#### Secretary, QA Tester and Backend Developer
+#### Secretary, Backend Developer, and Database Manager
 - [Jhon Lorenz Pabroa](https://github.com/JhonoBrine)
 
-#### Data Miner, QA Analyst and Frontend Developer
+#### Documentation, Frontend Developer, and Quality Assurance
 - [Trisha Mae Rivera](https://github.com/riveratrishamae)
 
 ## Co Author
 
-#### UI Designer and Frontend Developer
+#### UI/UX Designer and Frontend Developer
 - [Rey Mar Segalle](https://github.com/CroseaMors)
 
 
